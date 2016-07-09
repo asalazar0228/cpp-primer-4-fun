@@ -1,13 +1,3 @@
-//
-//  main.cpp
-//  First Program
-//
-//  Created by Alejandro Salazar on 6/25/16.
-//  Copyright (c) 2016 Alejandro Salazar. All rights reserved.
-//
-
-
-
 #include <iostream>
 #include "Sales_item.h"
 
